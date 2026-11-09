@@ -1,0 +1,34 @@
+{
+  "tx_hash": "0x41cba492e1c605f2f8ae0c9f39a37669d179cc0421fa6b0a9fdccd961183986f",
+  "eth_block": 26207295,
+  "processed_at": "2026-10-25T09:29:01+00:00",
+  "status": "ok",
+  "versioned_hashes": [
+    "0x0194831af4a89b41a37714b51fb84689828fb1a839e497e169e33109216e84c4",
+    "0x018f431110b8445e9233cbf0fccad7d35c338387668e40a390994600dbf037b4",
+    "0x01281301dc33602877ba57e271107dcae3cdd56e51dddd5d4ab9a59ce5888d5d"
+  ],
+  "n_blobs": 3,
+  "payload_declared_bytes": 387082,
+  "payload_bytes": 387082,
+  "payload_complete": true,
+  "flag_byte": 0,
+  "decompress_finished": true,
+  "decompressed_bytes": 1225336,
+  "n_segments": 853,
+  "segment_kinds": {
+    "0": 653,
+    "2": 4,
+    "3": 184,
+    "4": 12
+  },
+  "l2_message_kinds": {
+    "3": 556,
+    "4": 2207
+  },
+  "problems": {},
+  "n_transactions": 2207,
+  "tx_bytes": 1202550,
+  "signature_bytes": 143111,
+  "calldata_bytes": 952196
+}

@@ -1,0 +1,32 @@
+{
+  "source": "local files",
+  "files": [
+    "blob0.txt",
+    "blob1.txt",
+    "blob2.txt"
+  ],
+  "processed_at": "2026-10-21T23:06:32+00:00",
+  "status": "ok",
+  "n_blobs": 3,
+  "payload_declared_bytes": 386497,
+  "payload_bytes": 386497,
+  "payload_complete": true,
+  "flag_byte": 0,
+  "decompress_finished": true,
+  "decompressed_bytes": 1295294,
+  "n_segments": 1114,
+  "segment_kinds": {
+    "0": 843,
+    "3": 254,
+    "4": 17
+  },
+  "l2_message_kinds": {
+    "3": 664,
+    "4": 2258
+  },
+  "problems": {},
+  "n_transactions": 2258,
+  "tx_bytes": 1271702,
+  "signature_bytes": 146232,
+  "calldata_bytes": 1015135
+}

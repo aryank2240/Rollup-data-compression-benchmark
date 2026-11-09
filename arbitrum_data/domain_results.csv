@@ -1,0 +1,3 @@
+folder,status,n_txs,n_escaped,fee_base,decompressed_bytes,posted_payload_bytes,raw_tx_bytes,raw_tx_brotli_bytes,varint_only_bytes,varint_only_brotli_bytes,domain_bytes,domain_brotli_bytes,varint_only_saving_pct,varint_only_brotli_saving_pct,domain_saving_pct,domain_brotli_saving_pct
+local_test,ok,2258,0,40000000,1295294,386497,1271702,382303,1254702,377041,863219,376785,1.34,1.38,32.12,1.44
+TOTAL,1 ok,2258,0,,1295294,386497,1271702,382303,1254702,377041,863219,376785,1.34,1.38,32.12,1.44
